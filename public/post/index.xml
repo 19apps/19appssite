@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on my new hugo site</title>
+    <link>http://www.19apps.com/post/</link>
+    <description>Recent content in Posts on my new hugo site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+    
+    <lastBuildDate>Wed, 07 Jan 2015 23:26:19 EST</lastBuildDate>
+    <atom:link href="http://www.19apps.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first</title>
+      <link>http://www.19apps.com/post/first/</link>
+      <pubDate>Wed, 07 Jan 2015 23:26:19 EST</pubDate>
+      
+      <guid>http://www.19apps.com/post/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
